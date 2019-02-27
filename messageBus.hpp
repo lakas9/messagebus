@@ -79,14 +79,6 @@ class MessageBus
         Forum * forum;
         User * user;
 
-        void setUser(User * puser) {
-            user = puser;
-        }
-
-        void setForum(Forum * pforum) {
-            forum = pforum;
-        }
-
     private:
         vector<Forum *> forumList;
         vector<Forum *>::iterator iterForum;
