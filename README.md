@@ -1,6 +1,6 @@
 # Design and implement a Message Bus
 
-##Notes
+## Notes
 
 Due to time constraints this is effectively a simulation.  An attempt was made to integrate with an open source message solution such as AMPQ and ZEROMQ.  However their drivers were in some ways out of day and in others incompatible with their current libraries.  
 
